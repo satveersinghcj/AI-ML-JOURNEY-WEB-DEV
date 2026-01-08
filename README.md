@@ -1,9 +1,21 @@
-# AI-ML-JOURNEY
-I WILL DAILY UPLOADING AND UPDATING MY AI ML JOURNEY 
+# AI-ML Journey 🚀
 
-DAY 0-
-I WANT TO STAY CONSISTENT IN MY JOURNEY AND WANT TO SHARE MY JOURNEY.
-SOME PROMISES-I WILL SHOW UP DAILY IN MY LEARNING EVEN FOR 5 MINUTES(NO BREAKS)
-              I WILL ALSO WORK ON MY BAD DAYS
-              I WILL NOT QUIT.
+I will daily upload and update my AI/ML journey.
+
+## Why I Started
+I want to stay consistent and share my learning journey publicly.
+
+## Promises to Myself
+- I will show up daily even for 5 minutes (no breaks)
+- I will work even on bad days
+- I will not quit
+
+## Daily Progress Log
+**Day 0**
+- Started my AI/ML journey
+
+**Day 1**
+- Learned Python basics: variables, operators, data types, input()
+- Will continue practice tomorrow
+
               
