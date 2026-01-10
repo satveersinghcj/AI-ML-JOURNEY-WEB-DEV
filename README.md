@@ -21,6 +21,11 @@ I want to stay consistent and share my learning journey publicly.
 **Day 2**
 - REVISED DAY 1.GOT VEY LESS TIME TODAY
 
+**Day 3**
+- REVISE HE PREVIOUS CONCEPTS AND LEARN NEW THINGS
+- SOLVE AROUN 10 QUESTION AND LEARNED FROM MY MISTAKES.
+- RESOURSES USE (HACKER RANK, APNA COLLEGE)
+
   
 
               
