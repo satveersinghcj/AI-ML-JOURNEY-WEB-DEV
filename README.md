@@ -19,7 +19,7 @@ I want to stay consistent and share my learning journey publicly.
 - Will continue practice tomorrow
 
 **Day 2**
--REVISED DAY 1.GOT VEY LESS TIME TODAY
+- REVISED DAY 1.GOT VEY LESS TIME TODAY
 
   
 
