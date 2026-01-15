@@ -1,6 +1,0 @@
-num1=int(input("Enter your first number:"))
-num2=int(input("Enter your second  number:"))
-print("Sum is :",num1+num2)
-print("Differnce is :",num1-num2)
-print("Product is :",num1*num2)
-print("Quotient is :",num1/num2)
